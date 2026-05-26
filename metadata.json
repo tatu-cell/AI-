@@ -1,0 +1,5 @@
+{
+  "name": "Boccia Vision AI - PC Analysis",
+  "description": "A high-performance PC-based motion analysis application for Boccia athletes using uploaded video files for precise form coaching and trajectory tracking.",
+  "requestFramePermissions": []
+}
